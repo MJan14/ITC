@@ -1,4 +1,4 @@
-# MJS14 ITC Assignments
+# MJS14 ITC 
 
 This repository contains my **Introduction to Computing (ITC)** assignments for 2025.  
 Each assignment includes interactive web pages built using **HTML, CSS, and JavaScript**, designed to practice basic programming and computational logic skills.
