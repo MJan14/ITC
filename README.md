@@ -4,7 +4,13 @@ This repository contains my **Introduction to Computing (ITC)** assignments for 
 Each assignment includes interactive web pages built using **HTML, CSS, and JavaScript**, designed to practice basic programming and computational logic skills.
 
 ## 📂 Repository Structure
-
+/ITC
+├─ index.html # Homepage with links to all assignments
+├─ conversion.html # Assignment #1 – Conversion Tool
+├─ incometax.html # Assignment #2 – Income Tax Calculator
+├─ fsac.html # Assignment #3 – Factorial, Sum, Average Calculator
+├─ payroll.html # Assignment #4 – Payroll System
+└─ styles/ (optional) # Separate CSS files if used
 
 ## 🌟 Features
 
